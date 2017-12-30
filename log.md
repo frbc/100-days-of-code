@@ -1,30 +1,21 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
+### Day 1: December 30, 2017
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts:** I'm 38 yrs old and I need a new carreer to achieve all that I want in my life that I discovered recently.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [Calculator App](http://www.example.com)
+1. [Understanding Boolean Values](https://www.freecodecamp.org/challenges/Understanding-Boolean-Values)
+2. [Use Conditional Logic with If Statements](https://www.freecodecamp.org/challenges/Use-Conditional-Logic-with-If-Statements)
+3. [Comparison with the Equality Operator](https://www.freecodecamp.org/challenges/Comparison-with-the-Equality-Operator)
+4. [Comparison with the Strict Equality Operator](https://www.freecodecamp.org/challenges/Comparison-with-the-Strict-Equality-Operator)
+5. [Comparison with the Inequality Operator](https://www.freecodecamp.org/challenges/Comparison-with-the-Inequality-Operator)
+6. [Comparison with the Greater than Operator](https://www.freecodecamp.org/challenges/comparison-with-the-greater-than-operator)
+7. [Comparison with the Greater Than Or Equal To Operator](https://www.freecodecamp.org/challenges/comparison-with-the-greater-than-or-equal-to-operator)
+8. [Comparison with the Less Than Operator](https://www.freecodecamp.org/challenges/comparison-with-the-less-than-operator)
+9. [Comparison with the Less Than Or Equal To Operator](https://www.freecodecamp.org/challenges/comparison-with-the-less-than-or-equal-to-operator)
+10.[Comparisons with the Logical And Operator](https://www.freecodecamp.org/challenges/comparisons-with-the-logical-and-operator)
+11.[Comparisons with the Logical Or Operator](https://www.freecodecamp.org/challenges/comparisons-with-the-logical-or-operator)
+12.[Introducing Else Statements](https://www.freecodecamp.org/challenges/introducing-else-statements)
