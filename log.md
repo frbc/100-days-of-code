@@ -37,4 +37,18 @@
 9. [Returning Boolean Values from Functions](https://www.freecodecamp.org/challenges/returning-boolean-values-from-functions)
 10. [Return Early Pattern for Functions](https://www.freecodecamp.org/challenges/return-early-pattern-for-functions)
 
+### Day 3: January 1, 2018
+
+**Today's Progress**: Doing exercises on FreeCodeCamp.
+
+**Thoughts:** Never give up.
+
+1. [Counting Cards](https://www.freecodecamp.org/challenges/counting-cards)
+2. [Build JavaScript Objects](https://www.freecodecamp.org/challenges/build-javascript-objects)
+3. [Accessing Objects Properties with the Dot Operator](https://www.freecodecamp.org/challenges/accessing-objects-properties-with-the-dot-operator)
+4. [Accessing Objects Properties with Bracket Notation](https://www.freecodecamp.org/challenges/accessing-objects-properties-with-bracket-notation)
+5. [Accessing Objects Properties with Variables](https://www.freecodecamp.org/challenges/accessing-objects-properties-with-variables)
+6. [Updating Object Properties](https://www.freecodecamp.org/challenges/updating-object-properties)
+7. [Add New Properties to a JavaScript Object](https://www.freecodecamp.org/challenges/add-new-properties-to-a-javascript-object)
+8. [Delete Properties from a JavaScript Object](https://www.freecodecamp.org/challenges/delete-properties-from-a-javascript-object)
 
