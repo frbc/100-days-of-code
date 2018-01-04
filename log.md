@@ -52,3 +52,14 @@
 7. [Add New Properties to a JavaScript Object](https://www.freecodecamp.org/challenges/add-new-properties-to-a-javascript-object)
 8. [Delete Properties from a JavaScript Object](https://www.freecodecamp.org/challenges/delete-properties-from-a-javascript-object)
 
+### Day 4: January 2, 2018
+
+**Today's Progress**: Doing exercises on FreeCodeCamp.
+
+**Thoughts:** Never give up.
+
+1. [Using Objects for Lookups](https://www.freecodecamp.org/challenges/Using-Objects-for-Lookups)
+2. [Testing Objects for Properties](https://www.freecodecamp.org/challenges/Testing-Objects-for-Properties)
+3. [Manipulating Complex Objects](https://www.freecodecamp.org/challenges/manipulating-complex-objects)
+4. [Accessing Nested Objects](https://www.freecodecamp.org/challenges/accessing-nested-objects)
+5. [Accessing Nested Arrays](https://www.freecodecamp.org/challenges/accessing-nested-arrays)
