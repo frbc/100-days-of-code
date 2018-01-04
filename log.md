@@ -72,7 +72,7 @@
 
 1. [Iterate with JavaScript For Loops](https://www.freecodecamp.org/challenges/iterate-with-javascript-for-loops)
 2. [Iterate Odd Numbers With a For Loop](https://www.freecodecamp.org/challenges/iterate-odd-numbers-with-a-for-loop)
-3. [https://www.freecodecamp.org/challenges/iterate-odd-numbers-with-a-for-loop](https://www.freecodecamp.org/challenges/count-backwards-with-a-for-loop)
+3. [Count Backwards with a For Loop](https://www.freecodecamp.org/challenges/count-backwards-with-a-for-loop)
 4. [Iterate Through an Array with a For Loop](https://www.freecodecamp.org/challenges/iterate-through-an-array-with-a-for-loop)
 5. [Nesting For Loops](https://www.freecodecamp.org/challenges/nesting-for-loops)
 6. [Iterate with JavaScript While Loops](https://www.freecodecamp.org/challenges/iterate-with-javascript-while-loops)
