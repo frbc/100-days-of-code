@@ -78,7 +78,7 @@
 6. [Iterate with JavaScript While Loops](https://www.freecodecamp.org/challenges/iterate-with-javascript-while-loops)
 7. [Profile Lookup](https://www.freecodecamp.org/challenges/profile-lookup)
 
-### Day 5: January 4, 2018
+### Day 6: January 4, 2018
 
 **Today's Progress**: Doing exercises on FreeCodeCamp: mix content (view links) and fixing some errors on my future portfolio.
 
