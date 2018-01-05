@@ -64,9 +64,9 @@
 4. [Accessing Nested Objects](https://www.freecodecamp.org/challenges/accessing-nested-objects)
 5. [Accessing Nested Arrays](https://www.freecodecamp.org/challenges/accessing-nested-arrays)
 
-### Day 5: January 2, 2018
+### Day 5: January 3, 2018
 
-**Today's Progress**: Doing exercises on FreeCodeCamp: for loops, 
+**Today's Progress**: Doing exercises on FreeCodeCamp: for and while loops. 
 
 **Thoughts:** Never give up.
 
@@ -77,3 +77,19 @@
 5. [Nesting For Loops](https://www.freecodecamp.org/challenges/nesting-for-loops)
 6. [Iterate with JavaScript While Loops](https://www.freecodecamp.org/challenges/iterate-with-javascript-while-loops)
 7. [Profile Lookup](https://www.freecodecamp.org/challenges/profile-lookup)
+
+### Day 5: January 4, 2018
+
+**Today's Progress**: Doing exercises on FreeCodeCamp: mix content (view links) and fixing some errors on my future portfolio.
+
+**Thoughts:** Never give up.
+
+1. [Chaining If Else Statements](https://www.freecodecamp.org/challenges/chaining-if-else-statements)
+2. [Generate Random Fractions with JavaScript](https://www.freecodecamp.org/challenges/generate-random-fractions-with-javascript)
+3. [Generate Random Whole Numbers with JavaScript](https://www.freecodecamp.org/challenges/generate-random-whole-numbers-with-javascript)
+4. [Generate Random Whole Numbers within a Range](https://www.freecodecamp.org/challenges/generate-random-whole-numbers-within-a-range)
+5. [Sift through Text with Regular Expressions](https://www.freecodecamp.org/challenges/sift-through-text-with-regular-expressions)
+6. [Find Numbers with Regular Expressions](https://www.freecodecamp.org/challenges/find-numbers-with-regular-expressions)
+7. [https://www.freecodecamp.org/challenges/find-numbers-with-regular-expressions](https://www.freecodecamp.org/challenges/find-whitespace-with-regular-expressions)
+8. [Invert Regular Expression Matches with JavaScript](https://www.freecodecamp.org/challenges/invert-regular-expression-matches-with-javascript)
+9. [frbc's Portfolio](https://codepen.io/frbc/pen/wPPzbN)
