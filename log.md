@@ -93,3 +93,16 @@
 7. [https://www.freecodecamp.org/challenges/find-numbers-with-regular-expressions](https://www.freecodecamp.org/challenges/find-whitespace-with-regular-expressions)
 8. [Invert Regular Expression Matches with JavaScript](https://www.freecodecamp.org/challenges/invert-regular-expression-matches-with-javascript)
 9. [frbc's Portfolio](https://codepen.io/frbc/pen/wPPzbN)
+
+### Day 7: January 5, 2018
+
+**Today's Progress**: Doing exercises on FreeCodeCamp: starting on OOP.
+
+**Thoughts:** Keep learning.
+
+1. [Declare JavaScript Objects as Variables](https://www.freecodecamp.org/challenges/declare-javascript-objects-as-variables)
+2. [Construct JavaScript Objects with Functions](https://www.freecodecamp.org/challenges/construct-javascript-objects-with-functions)
+3. [Make Instances of Objects with a Constructor Function](https://www.freecodecamp.org/challenges/make-instances-of-objects-with-a-constructor-function)
+4. [Make Unique Objects by Passing Parameters to our Constructor](https://www.freecodecamp.org/challenges/make-unique-objects-by-passing-parameters-to-our-constructor)
+5. [Make Object Properties Private](https://www.freecodecamp.org/challenges/make-object-properties-private)
+6. [Iterate over Arrays with map](https://www.freecodecamp.org/challenges/iterate-over-arrays-with-map)
