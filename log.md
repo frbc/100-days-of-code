@@ -106,3 +106,18 @@
 4. [Make Unique Objects by Passing Parameters to our Constructor](https://www.freecodecamp.org/challenges/make-unique-objects-by-passing-parameters-to-our-constructor)
 5. [Make Object Properties Private](https://www.freecodecamp.org/challenges/make-object-properties-private)
 6. [Iterate over Arrays with map](https://www.freecodecamp.org/challenges/iterate-over-arrays-with-map)
+
+### Day 8: January 6, 2018
+
+**Today's Progress**: Doing exercises on FreeCodeCamp: array methods.
+
+**Thoughts:** Keep learning.
+
+1. [Condense arrays with reduce](https://www.freecodecamp.org/challenges/condense-arrays-with-reduce)
+2. [Filter Arrays with filter](https://www.freecodecamp.org/challenges/filter-arrays-with-filter)
+3. [Sort Arrays with sort](https://www.freecodecamp.org/challenges/sort-arrays-with-sort)
+4. [Reverse Arrays with reverse](https://www.freecodecamp.org/challenges/reverse-arrays-with-reverse)
+5. [Concatenate Arrays with concat](https://www.freecodecamp.org/challenges/concatenate-arrays-with-concat)
+6. [Split Strings with split](https://www.freecodecamp.org/challenges/split-strings-with-split)
+7. [Join Strings with join](https://www.freecodecamp.org/challenges/join-strings-with-join)
+
