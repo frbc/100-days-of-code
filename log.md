@@ -121,3 +121,13 @@
 6. [Split Strings with split](https://www.freecodecamp.org/challenges/split-strings-with-split)
 7. [Join Strings with join](https://www.freecodecamp.org/challenges/join-strings-with-join)
 
+### Day 9: January 7, 2018
+
+**Today's Progress**: Doing challenges on FreeCodeCamp: links bellow.
+
+**Thoughts:** Keep learning and motivated ;).
+
+1. [Reverse a String](https://www.freecodecamp.org/challenges/reverse-a-string)
+2. [Factorialize a Number](https://www.freecodecamp.org/challenges/factorialize-a-number)
+3. [Check for Palindromes](https://www.freecodecamp.org/challenges/check-for-palindromes)
+4. [Find the Longest Word in a String](https://www.freecodecamp.org/challenges/find-the-longest-word-in-a-string)
