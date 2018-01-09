@@ -131,3 +131,12 @@
 2. [Factorialize a Number](https://www.freecodecamp.org/challenges/factorialize-a-number)
 3. [Check for Palindromes](https://www.freecodecamp.org/challenges/check-for-palindromes)
 4. [Find the Longest Word in a String](https://www.freecodecamp.org/challenges/find-the-longest-word-in-a-string)
+
+### Day 10: January 8, 2018
+
+**Today's Progress**: Doing challenges on FreeCodeCamp: links bellow.
+
+**Thoughts:** Keep learning and motivated ;).
+
+1. [Title Case a Sentence](https://www.freecodecamp.org/challenges/title-case-a-sentence)
+2. [Return Largest Numbers in Arrays](https://www.freecodecamp.org/challenges/return-largest-numbers-in-arrays)
