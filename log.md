@@ -140,3 +140,14 @@
 
 1. [Title Case a Sentence](https://www.freecodecamp.org/challenges/title-case-a-sentence)
 2. [Return Largest Numbers in Arrays](https://www.freecodecamp.org/challenges/return-largest-numbers-in-arrays)
+
+### Day 11: January 9, 2018
+
+**Today's Progress**: Doing challenges on FreeCodeCamp: links bellow.
+
+**Thoughts:** Keep'n focused and motivated ;).
+
+1. [Confirm the Ending](https://www.freecodecamp.org/challenges/confirm-the-ending)
+2. [Repeat a string repeat a string](https://www.freecodecamp.org/challenges/repeat-a-string-repeat-a-string)
+3. [Truncate a string](https://www.freecodecamp.org/challenges/truncate-a-string)
+4. [Chunky Monkey](https://www.freecodecamp.org/challenges/chunky-monkey)
