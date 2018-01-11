@@ -151,3 +151,13 @@
 2. [Repeat a string repeat a string](https://www.freecodecamp.org/challenges/repeat-a-string-repeat-a-string)
 3. [Truncate a string](https://www.freecodecamp.org/challenges/truncate-a-string)
 4. [Chunky Monkey](https://www.freecodecamp.org/challenges/chunky-monkey)
+
+### Day 12: January 10, 2018
+
+**Today's Progress**: Doing challenges on FreeCodeCamp: links bellow.
+
+**Thoughts:** Keep'n focused and motivated ;).
+
+1. [Slasher Flick](https://www.freecodecamp.org/challenges/slasher-flick)
+2. [Mutations](https://www.freecodecamp.org/challenges/mutations)
+3. [Falsy Bouncer](https://www.freecodecamp.org/challenges/falsy-bouncer)
