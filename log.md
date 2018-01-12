@@ -161,3 +161,13 @@
 1. [Slasher Flick](https://www.freecodecamp.org/challenges/slasher-flick)
 2. [Mutations](https://www.freecodecamp.org/challenges/mutations)
 3. [Falsy Bouncer](https://www.freecodecamp.org/challenges/falsy-bouncer)
+
+### Day 13: January 11, 2018
+
+**Today's Progress**: Doing challenges on FreeCodeCamp: links bellow.
+
+**Thoughts:** Keep'n focused, motivated and learning each round ;).
+
+1. [Seek and Destroy](https://www.freecodecamp.org/challenges/seek-and-destroy)
+2. [Where do I belong](https://www.freecodecamp.org/challenges/where-do-i-belong)
+
