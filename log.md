@@ -171,3 +171,13 @@
 1. [Seek and Destroy](https://www.freecodecamp.org/challenges/seek-and-destroy)
 2. [Where do I belong](https://www.freecodecamp.org/challenges/where-do-i-belong)
 
+### Day 14: January 12, 2018
+
+**Today's Progress**: Ending  JavaScript challenges on FreeCodeCamp: link bellow. Starting on API.
+
+**Thoughts:** Always follow good examples!
+
+1. [Caesars Cipher](https://www.freecodecamp.org/challenges/caesars-cipher)
+2. [Trigger Click Events With Jquery](https://www.freecodecamp.org/challenges/trigger-click-events-with-jquery)
+3. [Change Text with Click Events](https://www.freecodecamp.org/challenges/change-text-with-click-events)
+
