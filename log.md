@@ -181,3 +181,14 @@
 2. [Trigger Click Events With Jquery](https://www.freecodecamp.org/challenges/trigger-click-events-with-jquery)
 3. [Change Text with Click Events](https://www.freecodecamp.org/challenges/change-text-with-click-events)
 
+### Day 15: January 13, 2018
+
+**Today's Progress**: JSON APIs.
+
+**Thoughts:** Always follow good examples!
+
+1. [Get JSON with the jQuery getJSON Method](https://www.freecodecamp.org/challenges/get-json-with-the-jquery-getjson-method)
+2. [Convert JSON Data to HTML](https://www.freecodecamp.org/challenges/convert-json-data-to-html)
+3. [Render Images from Data Sources](https://www.freecodecamp.org/challenges/render-images-from-data-sources)
+4. [Prefilter JSON](https://www.freecodecamp.org/challenges/prefilter-json)
+5. [Get Geolocation Data](https://www.freecodecamp.org/challenges/get-geolocation-data)
