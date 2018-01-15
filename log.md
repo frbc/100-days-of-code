@@ -192,3 +192,12 @@
 3. [Render Images from Data Sources](https://www.freecodecamp.org/challenges/render-images-from-data-sources)
 4. [Prefilter JSON](https://www.freecodecamp.org/challenges/prefilter-json)
 5. [Get Geolocation Data](https://www.freecodecamp.org/challenges/get-geolocation-data)
+
+### Day 16: January 14, 2018
+
+**Today's Progress**: Working on Quote Machine.
+
+**Thoughts:** Always follow good examples!
+
+1. [Build a Random Quote Machine](https://www.freecodecamp.org/challenges/build-a-random-quote-machine)
+
