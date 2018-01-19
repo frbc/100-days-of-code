@@ -218,3 +218,11 @@
 1. [Build a Random Quote Machine](https://www.freecodecamp.org/challenges/build-a-random-quote-machine)
 [Available on Codepen](https://codepen.io/frbc/pen/ppKMgp)
 
+### Day 19-20: January 17-18, 2018
+
+**Today's Progress**: Working on Random Quote Machine, link below.
+
+**Thoughts:** Always follow good examples!
+
+1. [Build a Random Quote Machine](https://www.freecodecamp.org/challenges/build-a-random-quote-machine)
+[Available on Codepen](https://codepen.io/frbc/pen/ppKMgp)
