@@ -235,3 +235,12 @@
 
 1. [Build a Random Quote Machine](https://www.freecodecamp.org/challenges/build-a-random-quote-machine)
 [Available on Codepen](https://codepen.io/frbc/pen/ppKMgp)
+
+### Day 23: January 21, 2018
+
+**Today's Progress**: Working on Show the Local Weather challenger, link below.
+
+**Thoughts:** Always trust in your knowledge!
+
+1. [Show the Local Weather](https://www.freecodecamp.org/challenges/show-the-local-weather)
+
