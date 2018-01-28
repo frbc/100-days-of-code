@@ -244,3 +244,10 @@
 
 1. [Show the Local Weather](https://www.freecodecamp.org/challenges/show-the-local-weather)
 
+### Day 24-26: January 22-24, 2018
+
+**Today's Progress**: Working on Show the Local Weather challenger, link below. Changed logic of data acquisition, layout design.
+
+**Thoughts:** Always trust in your knowledge!
+
+1. [Show the Local Weather](https://www.freecodecamp.org/challenges/show-the-local-weather)
