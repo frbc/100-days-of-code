@@ -251,3 +251,11 @@
 **Thoughts:** Always trust in your knowledge!
 
 1. [Show the Local Weather](https://www.freecodecamp.org/challenges/show-the-local-weather)
+
+### Day 27-28: January 25-26, 2018
+
+**Today's Progress**: Working on Show the Local Weather challenger, link below. Convert temperature Celsius-> Fahrenheit not running.
+
+**Thoughts:** Always trust in your knowledge!
+
+1. [Show the Local Weather](https://www.freecodecamp.org/challenges/show-the-local-weather)
