@@ -259,3 +259,13 @@
 **Thoughts:** Always trust in your knowledge!
 
 1. [Show the Local Weather](https://www.freecodecamp.org/challenges/show-the-local-weather)
+
+### Day 29-30: January 27-28, 2018
+
+**Today's Progress**: Finished Local Weather Challenge on FreeCodeCamp.
+
+**Thoughts:** Always trust in your knowledge!
+
+1. [Show the Local Weather](https://www.freecodecamp.org/challenges/show-the-local-weather)
+[Link:](https://codepen.io/frbc/pen/gvONdz)
+
