@@ -266,7 +266,7 @@
 
 **Thoughts:** Always trust in your knowledge!
 
-1. [Show the Local Weather](https://www.freecodecamp.org/challenges/show-the-local-weather)
+1. [Show the Local Weather ->](https://www.freecodecamp.org/challenges/show-the-local-weather)
 [App Link:](https://codepen.io/frbc/pen/gvONdz)
 
 ### Day 31-32: January 29-30, 2018
@@ -275,7 +275,7 @@
 
 **Thoughts:** Always trust in your knowledge!
 
-1. [Show the Local Weather](https://www.freecodecamp.org/challenges/build-a-wikipedia-viewer)
+1. [Build a Wikipedia Viewer -> ](https://www.freecodecamp.org/challenges/build-a-wikipedia-viewer)
 [App Link:](https://codepen.io/frbc/pen/eVJLam)
 
 
