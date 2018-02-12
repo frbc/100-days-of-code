@@ -278,6 +278,15 @@
 1. [Build a Wikipedia Viewer -> ](https://www.freecodecamp.org/challenges/build-a-wikipedia-viewer)
 [App Link:](https://codepen.io/frbc/pen/eVJLam)
 
+### Day 33-34: January 31-February 01, 2018
+
+**Today's Progress**: Finished Build a Wikipedia Viewer challenge on FreeCodeCamp.
+
+**Thoughts:** Always trust in your knowledge!
+
+1. [Build a Wikipedia Viewer -> ](https://www.freecodecamp.org/challenges/build-a-wikipedia-viewer)
+[App Link:](https://codepen.io/frbc/pen/eVJLam)
+
 
 
 
