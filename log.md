@@ -287,6 +287,14 @@
 1. [Build a Wikipedia Viewer -> ](https://www.freecodecamp.org/challenges/build-a-wikipedia-viewer)
 [App Link:](https://codepen.io/frbc/pen/eVJLam)
 
+### Day 35-36: February 02-03, 2018
+
+**Today's Progress**: Working on challenge "Use the Twitch TV JSON API" on FreeCodeCamp.
+
+**Thoughts:** Always trust in your knowledge!
+
+1. [Use the Twitchtv JSON API -> ](https://www.freecodecamp.org/challenges/use-the-twitchtv-json-api)
+[App Link:](https://codepen.io/frbc/pen/rJwvZx)
 
 
 
