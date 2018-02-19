@@ -296,5 +296,13 @@
 1. [Use the Twitchtv JSON API -> ](https://www.freecodecamp.org/challenges/use-the-twitchtv-json-api)
 [App Link:](https://codepen.io/frbc/pen/rJwvZx)
 
+### Day 37-38: February 04-05, 2018
+
+**Today's Progress**: Working on challenge "Use the Twitch TV JSON API" on FreeCodeCamp.
+
+**Thoughts:** Always trust in your knowledge!
+
+1. [Use the Twitchtv JSON API -> ](https://www.freecodecamp.org/challenges/use-the-twitchtv-json-api)
+[App Link:](https://codepen.io/frbc/pen/rJwvZx)
 
 
