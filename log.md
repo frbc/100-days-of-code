@@ -320,5 +320,5 @@
 
 **Thoughts:** Always move one step forward!
 
-1.[Sum All Numbers in a Range](https://www.freecodecamp.org/challenges/sum-all-numbers-in-a-range)
-2.[Diff Two Arrays](https://www.freecodecamp.org/challenges/diff-two-arrays)
+1. [Sum All Numbers in a Range](https://www.freecodecamp.org/challenges/sum-all-numbers-in-a-range)
+2. [Diff Two Arrays](https://www.freecodecamp.org/challenges/diff-two-arrays)
