@@ -305,7 +305,7 @@
 1. [Use the Twitchtv JSON API -> ](https://www.freecodecamp.org/challenges/use-the-twitchtv-json-api)
 [App Link:](https://codepen.io/frbc/pen/rJwvZx)
 
-### Day 39-40: February 02-03, 2018
+### Day 39-40: February 05-06, 2018
 
 **Today's Progress**: challenge "Use the Twitch TV JSON API" on FreeCodeCamp finished :).
 
@@ -313,3 +313,11 @@
 
 1. [Use the Twitchtv JSON API -> ](https://www.freecodecamp.org/challenges/use-the-twitchtv-json-api)
 [App Link:](https://codepen.io/frbc/pen/rJwvZx)
+
+### Day 41: February 07, 2018
+
+**Today's Progress**: solving some challenges on FreeCodeCamp (links below) :).
+
+**Thoughts:** Always move one step forward!
+
+1.[Sum All Numbers in a Range](https://www.freecodecamp.org/challenges/sum-all-numbers-in-a-range)
