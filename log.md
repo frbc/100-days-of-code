@@ -314,10 +314,11 @@
 1. [Use the Twitchtv JSON API -> ](https://www.freecodecamp.org/challenges/use-the-twitchtv-json-api)
 [App Link:](https://codepen.io/frbc/pen/rJwvZx)
 
-### Day 41: February 07, 2018
+### Day 41-42: February 07-08, 2018
 
 **Today's Progress**: solving some challenges on FreeCodeCamp (links below) :).
 
 **Thoughts:** Always move one step forward!
 
 1.[Sum All Numbers in a Range](https://www.freecodecamp.org/challenges/sum-all-numbers-in-a-range)
+2.[Diff Two Arrays](https://www.freecodecamp.org/challenges/diff-two-arrays)
