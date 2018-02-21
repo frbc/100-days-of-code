@@ -322,3 +322,11 @@
 
 1. [Sum All Numbers in a Range](https://www.freecodecamp.org/challenges/sum-all-numbers-in-a-range)
 2. [Diff Two Arrays](https://www.freecodecamp.org/challenges/diff-two-arrays)
+
+### Day 43: February 09, 2018
+
+**Today's Progress**: solving one challenges on FreeCodeCamp (link below) :).
+
+**Thoughts:** Always move one step forward!
+
+1. [Roman Numeral Converter](https://www.freecodecamp.org/challenges/roman-numeral-converter)
