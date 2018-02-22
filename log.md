@@ -325,8 +325,17 @@
 
 ### Day 43: February 09, 2018
 
-**Today's Progress**: solving one challenges on FreeCodeCamp (link below) :).
+**Today's Progress**: solving one challenge on FreeCodeCamp (link below) :).
 
 **Thoughts:** Always move one step forward!
 
 1. [Roman Numeral Converter](https://www.freecodecamp.org/challenges/roman-numeral-converter)
+
+### Day 44-45: February 10-11, 2018
+
+**Day's Progress**: solving challenges on FreeCodeCamp (link below) :).
+
+**Thoughts:** The victory is a prize to the best!
+
+1. [Wherefore art thou](https://www.freecodecamp.org/challenges/wherefore-art-thou)
+2. [Search and Replace](https://www.freecodecamp.org/challenges/search-and-replace)
