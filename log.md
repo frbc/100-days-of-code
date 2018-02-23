@@ -339,3 +339,12 @@
 
 1. [Wherefore art thou](https://www.freecodecamp.org/challenges/wherefore-art-thou)
 2. [Search and Replace](https://www.freecodecamp.org/challenges/search-and-replace)
+
+### Day 46-47: February 12-13, 2018
+
+**Day's Progress**: solving challenges on FreeCodeCamp (link below) :).
+
+**Thoughts:** The victory is a prize to the best!
+
+1. [Pig Latin](https://www.freecodecamp.org/challenges/pig-latin)
+
