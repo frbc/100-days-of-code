@@ -347,4 +347,6 @@
 **Thoughts:** The victory is a prize to the best!
 
 1. [Pig Latin](https://www.freecodecamp.org/challenges/pig-latin)
+2. [DNA Pairing](https://www.freecodecamp.org/challenges/dna-pairing)
+3. [Missing letters](https://www.freecodecamp.org/challenges/missing-letters)
 
