@@ -350,3 +350,13 @@
 2. [DNA Pairing](https://www.freecodecamp.org/challenges/dna-pairing)
 3. [Missing letters](https://www.freecodecamp.org/challenges/missing-letters)
 
+### Day 48: February 14, 2018
+
+**Day's Progress**: solving challenges on FreeCodeCamp (link below) :).
+
+**Thoughts:** The victory is a prize to the best!
+
+1. [Boo who](https://www.freecodecamp.org/challenges/boo-who)
+2. [Sorted Union](https://www.freecodecamp.org/challenges/sorted-union)
+
+
