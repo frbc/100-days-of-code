@@ -359,4 +359,12 @@
 1. [Boo who](https://www.freecodecamp.org/challenges/boo-who)
 2. [Sorted Union](https://www.freecodecamp.org/challenges/sorted-union)
 
+### Day 49: February 15, 2018
+
+**Day's Progress**: solving challenges on FreeCodeCamp (link below) :).
+
+**Thoughts:** The victory is a prize to the best!
+
+1. [Convert HTML Entities](https://www.freecodecamp.org/challenges/convert-html-entities)
+
 
