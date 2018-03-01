@@ -374,3 +374,13 @@
 **Thoughts:** The victory is a prize to the best!
 
 1. [Spinal Tap Case](https://www.freecodecamp.org/challenges/spinal-tap-case)
+
+### Day 52: February 18, 2018
+
+**Day's Progress**: solving challenges on FreeCodeCamp (link below) :).
+
+**Thoughts:** The victory is a prize to the best!
+
+1. [Sum All Odd Fibonacci Numbers](https://www.freecodecamp.org/challenges/sum-all-odd-fibonacci-numbers)
+2. [Sum All Primes](https://www.freecodecamp.org/challenges/sum-all-primes)
+
