@@ -384,3 +384,23 @@
 1. [Sum All Odd Fibonacci Numbers](https://www.freecodecamp.org/challenges/sum-all-odd-fibonacci-numbers)
 2. [Sum All Primes](https://www.freecodecamp.org/challenges/sum-all-primes)
 
+### Day 53-54: February 18, 2018
+
+**Day's Progress**: solving challenges on FreeCodeCamp (link below) :).
+
+**Thoughts:** The victory is a prize to the best!
+
+1. [Smallest Common Multiple](https://www.freecodecamp.org/challenges/smallest-common-multiple)
+2. [Finders Keepers](https://www.freecodecamp.org/challenges/finders-keepers)
+
+### Day 55: February 19, 2018
+
+**Day's Progress**: solving challenges on FreeCodeCamp (link below) :).
+
+**Thoughts:** The victory is a prize to the best!
+
+1. [Drop it](https://www.freecodecamp.org/challenges/drop-it)
+
+
+
+
