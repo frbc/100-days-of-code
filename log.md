@@ -405,9 +405,10 @@
 
 **Day's Progress**: solving challenges on FreeCodeCamp (link below) :).
 
-**Thoughts:** The victory is a prize to the best!
+**Thoughts:** Learning step by step!
 
 1. [Binary Agents](https://www.freecodecamp.org/challenges/binary-agents)
+2. [Everything Be True](ttps://www.freecodecamp.org/challenges/everything-be-true)
 
 
 
