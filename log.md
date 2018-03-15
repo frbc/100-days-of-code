@@ -408,7 +408,7 @@
 **Thoughts:** Learning step by step!
 
 1. [Binary Agents](https://www.freecodecamp.org/challenges/binary-agents)
-2. [Everything Be True](ttps://www.freecodecamp.org/challenges/everything-be-true)
+2. [Everything Be True](https://www.freecodecamp.org/challenges/everything-be-true)
 
 
 
