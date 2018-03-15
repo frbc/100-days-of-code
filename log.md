@@ -401,6 +401,14 @@
 
 1. [Drop it](https://www.freecodecamp.org/challenges/drop-it)
 
+### Day 56: February 20, 2018
+
+**Day's Progress**: solving challenges on FreeCodeCamp (link below) :).
+
+**Thoughts:** The victory is a prize to the best!
+
+1. [Binary Agents](https://www.freecodecamp.org/challenges/binary-agents)
+
 
 
 
