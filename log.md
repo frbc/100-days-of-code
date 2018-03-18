@@ -410,6 +410,16 @@
 1. [Binary Agents](https://www.freecodecamp.org/challenges/binary-agents)
 2. [Everything Be True](https://www.freecodecamp.org/challenges/everything-be-true)
 
+### Day 57-58: February 20-21, 2018
+
+**Day's Progress**: solving challenges on FreeCodeCamp (link below) :).
+
+**Thoughts:** U.S. Telephone regex expr was hard!
+
+1. [Arguments Optional](https://www.freecodecamp.org/challenges/arguments-optional)
+2. [Validate US Telephone Numbers](https://www.freecodecamp.org/challenges/validate-us-telephone-numbers)
+
+
 
 
 
