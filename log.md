@@ -419,6 +419,14 @@
 1. [Arguments Optional](https://www.freecodecamp.org/challenges/arguments-optional)
 2. [Validate US Telephone Numbers](https://www.freecodecamp.org/challenges/validate-us-telephone-numbers)
 
+### Day 59: February 22, 2018
+
+**Day's Progress**: solving challenges on FreeCodeCamp (link below) :).
+
+**Thoughts:** Persistence is the key!
+
+1. [Record Collection](https://www.freecodecamp.org/challenges/record-collection)
+2. []()
 
 
 
