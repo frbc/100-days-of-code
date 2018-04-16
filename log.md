@@ -428,6 +428,12 @@
 1. [Record Collection](https://www.freecodecamp.org/challenges/record-collection)
 2. [Symmetric Difference](https://www.freecodecamp.org/challenges/symmetric-difference)
 
+### Day 61-65: February 24-28, 2018
 
+**Day's Progress**: solving challenges on FreeCodeCamp (link below) :).
+
+**Thoughts:** Persistence is the key!
+
+1. [Exact Change](https://www.freecodecamp.org/challenges/exact-change)
 
 
