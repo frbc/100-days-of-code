@@ -436,4 +436,12 @@
 
 1. [Exact Change](https://www.freecodecamp.org/challenges/exact-change)
 
+### Day 66-67: March 01-02, 2018
+
+**Day's Progress**: solving challenges on FreeCodeCamp (link below) :).
+
+**Thoughts:** Persistence is the key!
+
+1. [Inventory Update](https://www.freecodecamp.org/challenges/inventory-update)
+
 
